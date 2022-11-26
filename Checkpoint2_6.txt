@@ -1,0 +1,8 @@
+Checkpoint 2: Git & GitHub
+Namn: Berill Varga
+
+Uppgift 6:
+ a) View the history of the repository: 		git log
+ b) If there are outstanding commits to do: 	git status (för att se icke-added förändringar)
+								git status -s (för att se icke-commited förändringar)
+ c) Start a new repository:				git init
